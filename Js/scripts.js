@@ -142,7 +142,6 @@ if (typeof Typed !== 'undefined') {
     if (typedElement) {
         new Typed('.multiple-text', {
           strings: [
-            'Member of Group B',
             'Frontend Developer',
             'UI/UX Designer',
             'Graphics Designer',
