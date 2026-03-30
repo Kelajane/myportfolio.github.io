@@ -951,8 +951,8 @@ span {
         top: -50px;
     } */
     
-    #image-card1 img,
-    .shape1,
+    #image-crd1 img,
+    .shap1,
     #image-card2 img,
     .shape2 {
         left: 0;
@@ -980,8 +980,8 @@ span {
     }
 
     .home-img img,
-    #image-card1 img,
-    .shape1 {
+    #image-crd1 img,
+    .shap1 {
         width: min(72vw, 280px);
         margin-top: 1rem;
     }
@@ -1012,8 +1012,8 @@ span {
     }
 
     .home-img img,
-    #image-card1 img,
-    .shape1 {
+    #image-crd1 img,
+    .shap1 {
         width: min(78vw, 240px);
     }
 
