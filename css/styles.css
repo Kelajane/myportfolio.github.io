@@ -865,8 +865,8 @@ span {
     }
 
     .home-img img,
-    #image-card1 img,
-    .shape1 {
+    #image-crd1 img,
+    .shap1 {
         width: min(58vw, 320px);
         margin-top: 1.5rem;
     }
